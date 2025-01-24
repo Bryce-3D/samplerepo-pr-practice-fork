@@ -8,3 +8,8 @@ fdsa
 <<<<< niam
 
 Totally real merge conflict
+
+Will this change appear in the PR
+^What did they mean by this, chat
+Uhhhh
+<newline>
